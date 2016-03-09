@@ -1,0 +1,14 @@
+layout_spectrum: 0.4354921
+color:
+  saturation: 0.3459857
+  lightness: 0.5938966
+  brandStrength: 0.9199795
+  rhythmicContrast: 0.6075965
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.1935484
+name: Wing Chun System
